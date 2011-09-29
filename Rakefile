@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "teascript"
   gem.homepage = "http://github.com/melcher/teascript"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = "An alternative to coffeescript (and javascript)"
+  gem.description = %Q{teascript is a non-whitespace sensitive coffeescript alternative.}
   gem.email = "melcher@gmail.com"
   gem.authors = ["graham"]
   # dependencies defined in Gemfile
