@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["graham"]
   s.date = %q{2011-09-29}
-  s.description = %q{teascript is a non-whitespace sensitive coffeescript alternative.}
+  s.description = %q{teascript is a non-whitespace sensitive coffeescript alternative. And I am a clever but bad person for squatting the name.}
   s.email = %q{melcher@gmail.com}
   s.extra_rdoc_files = [
     "LICENSE.txt",
